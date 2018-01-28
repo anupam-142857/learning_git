@@ -1,3 +1,4 @@
 hello world !
 add a line
 add another line
+we have enough lines to practice checkout and revert
