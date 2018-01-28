@@ -3,3 +3,4 @@ add a line
 add another line
 we have enough lines to practice checkout and revert
 trying git add and commit in one line using -am
+taking master ahead of the branch
